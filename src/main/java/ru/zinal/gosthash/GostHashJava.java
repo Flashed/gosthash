@@ -1,4 +1,3 @@
-// $Id: GostHashJava.java 45536 2013-04-08 13:23:58Z zinal $
 package ru.zinal.gosthash;
 
 import java.io.File;

@@ -1,4 +1,3 @@
-// $Id: GostHashIface.java 34991 2011-08-23 11:11:01Z zinal $
 package ru.zinal.gosthash;
 
 /**
